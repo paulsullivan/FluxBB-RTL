@@ -519,7 +519,7 @@ html, body, .pun table, .pun div, .pun form, .pun p, .pun h1, .pun h2, .pun h3, 
 	font: 1em/1.462em Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	margin: 1px 1px 0 1px;
-	padding-left: 8px;
+	padding-right: 8px;
 	position: absolute;
 	right: 0;
 	white-space: nowrap;
