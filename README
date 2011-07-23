@@ -1,5 +1,5 @@
-RTL versions of the standard Air, Earth and Fire stylesheets for FluxBB v1.4.2.
+RTL versions of the standard Air, Earth and Fire stylesheets for FluxBB v1.4.
 
+The stylesheets were originally designed for FluxBB v1.4.2 but have now been updated to match the ltr styles which are currently in the repo.  This means the styles should work with both 1.4.5 and the coming 1.4.6.
+ 
 You will need to have installed a valid langauge pack for an RTL language such as Arabic or Hebrew.
-
-(In the process of updating ready for FluxBB 1.4.6)
