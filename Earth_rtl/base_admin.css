@@ -1,4 +1,3 @@
-
 #adminconsole .blockform .box {
 	padding-bottom: 12px;
 }
@@ -114,32 +113,51 @@
 
 #punadmin #users1 th, #punadmin #users2 th, #punadmin #bans1 th {
 	font-weight: bold;
-	}
-
-#users2 th, #bans1 th {
-	text-align: right;
 }
 
-#users2 .tcl, #users2 .tc3, #users2 .tc5, #bans1 .tcl, #bans1 .tc3, #bans1 .tc5, #bans1 .tc6 {
-	width: 15%;
+#users2 th, #bans1 th {
+	text-align: left;
+}
+
+#users2 th.tcmod {
+	text-align: center;
+}
+
+#users2 .tcl, #bans1 .tcl {
+	width: auto;
 	text-align: right;
 }
 
 #users2 .tc2, #bans1 .tc2 {
-	width: 22%;
+	width: 18%;
+	text-align: left;
+}
+
+#users2 .tc3, #users2 .tc5, #bans1 .tc3, #bans1 .tc5, #bans1 .tc6 {
+	width: 12%;
 	text-align: right;
 }
 
 #users2 .tc4, #bans1 .tc4 {
-	width: 8%;
+	width: 10%;
 	text-align: center;
 }
 
-#users2 .tcr, #bans1 .tcr {
+#users2 .tcr {
+	width: 20%;
 	white-space: nowrap;
 }
 
-#exampleplugin p {
-	padding-right: 18px;
-	padding-left: 18px;
+#bans1 .tcr {
+	width: 15%;
+	white-space: nowrap;
+}
+
+#users2 .tcmod {
+	width: 10%;
+	text-align: center;
+}
+
+.plugin p {
+	padding: 12px 18px 0;
 }
